@@ -1,0 +1,698 @@
+,pattern,sum_diffs,match_1_piece_title,match_2_piece_title,match_1_part,match_2_part,match_1_start_measure,match_2_start_measure,match_1_end_measure,match_2_end_measure
+0,"(-5, 2, 2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],84,91,85,92
+7,"(-5, 2, 2, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Altus,Altus,36,52,38,54
+13,"(-5, 2, 2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Altus,Altus,36,52,38,54
+25,"(-5, 2, 2, 2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,239,182,239,182
+46,"(-5, 4, 2, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Bassus,81,181,82,182
+52,"(-5, 5, 2, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Bassus,81,181,82,182
+66,"(-4, 1, 2, 2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Bassus,175,195,176,196
+68,"(-4, 1, 4, -2, -2)",0.16666666666666666,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,13,265,14,267
+90,"(-4, 2, 2, 2, -2)",0.5625,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,36,24,38,25
+209,"(-4, 2, 2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,94,28,95,29
+587,"(-4, 4, -2, -2, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,112,109,113,110
+690,"(-3, -2, -3, 2, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Bassus,58,28,61,30
+703,"(-3, -2, -2, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,17,14,18,15
+758,"(-3, -2, -2, -2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,73,73,74,74
+3839,"(-3, -2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,17,14,18,15
+6120,"(-3, -2, -2, 1, -2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Bassus,48,18,50,19
+6209,"(-3, -2, -2, 1, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Agnus Dei,Bassus,Altus,107,28,108,29
+6225,"(-3, -2, -2, 1, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Agnus Dei,Bassus,Altus,107,28,108,29
+6265,"(-3, -2, -2, 2, -2)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,22,9,23
+11617,"(-3, -2, -2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Tenor,Bassus,25,85,26,86
+15084,"(-3, -2, -2, 3, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Bassus,Sup[erius],25,22,26,24
+15483,"(-3, -2, 2, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,45,52,46,53
+15559,"(-3, -2, 2, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,107,113,108,114
+15709,"(-3, -2, 2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,47,54
+18410,"(-3, -2, 3, -2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Bassus,Sup[erius],269,23,270,24
+18431,"(-3, -2, 4, -2, -2)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,72,25,73,27
+18487,"(-3, -2, 4, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,91,83,94,86
+18584,"(-3, -2, 5, -2, 2)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Tenor,Bassus,33,16,35,18
+18606,"(-3, -2, 8, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,265,264,266,266
+18641,"(-3, 1, -3, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],155,156,156,157
+18725,"(-3, 1, -2, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Bassus,134,78,137,80
+18774,"(-3, 1, 2, -4, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,191,193,193,194
+18811,"(-3, 1, 2, -3, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,191,193,193,194
+18859,"(-3, 1, 2, -3, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,191,193,193,194
+18925,"(-3, 1, 2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,94,28,95,29
+19225,"(-3, 1, 4, -2, -2)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Sup[erius],265,81,267,83
+19241,"(-3, 1, 4, -2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,267,85,270,88
+19250,"(-3, 1, 4, 1, -3)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,263,81,266,84
+19267,"(-3, 2, -3, -2, 1)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,155,156,156,158
+19304,"(-3, 2, -3, -2, 2)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,155,156,156,158
+19332,"(-3, 2, -3, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],155,156,156,157
+19503,"(-3, 2, -3, 2, -5)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,45,52,46,53
+19546,"(-3, 2, -3, 2, -2)",0.75,Missa Ave Maria: Credo,Ave Maria,Altus,[Superius],111,65,113,67
+19644,"(-3, 2, -3, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],155,156,156,157
+19995,"(-3, 2, -3, 2, 3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],155,156,156,157
+20067,"(-3, 2, -3, 3, -2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,47,158,48,159
+20220,"(-3, 2, -3, 4, -2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,47,158,48,159
+20226,"(-3, 2, -2, -3, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Sup[erius],20,154,21,155
+20441,"(-3, 2, -2, -2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,7,8,8
+27580,"(-3, 2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,78,80,80,82
+27878,"(-3, 2, -2, 1, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],8,39,9,40
+27891,"(-3, 2, -2, 2, -3)",0.0,Ave Maria,Ave Maria,Tenor,Bassus,50,50,52,51
+27917,"(-3, 2, -2, 2, -2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,47,20,49,21
+28225,"(-3, 2, -2, 3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Altus,47,6,48,8
+28359,"(-3, 2, 1, -2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Bassus,Tenor,61,216,63,218
+28434,"(-3, 2, 2, -5, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],83,90,84,91
+28443,"(-3, 2, 2, -5, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],83,90,84,91
+28465,"(-3, 2, 2, -3, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],155,157,156,158
+28529,"(-3, 2, 2, -3, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Bassus,Tenor,61,216,63,218
+29029,"(-3, 2, 2, -3, 1)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],34,73,35,74
+29129,"(-3, 2, 2, -3, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,156,157,157,158
+29460,"(-3, 2, 2, -3, 4)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Bassus,136,79,138,81
+29466,"(-3, 2, 2, -2, -3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],54,155,55,156
+29816,"(-3, 2, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Tenor,92,92,93,93
+31051,"(-3, 2, 2, -2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,42
+31095,"(-3, 2, 2, -2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],118,126,119,127
+31237,"(-3, 2, 2, 1, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,94,28,95,29
+31447,"(-3, 2, 2, 2, -5)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,83,90,85,92
+31508,"(-3, 2, 2, 2, -4)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,83,90,85,92
+31628,"(-3, 2, 2, 2, -3)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Tenor,Bassus,19,24,21,25
+32006,"(-3, 2, 2, 2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,39,38,40,39
+33960,"(-3, 2, 2, 2, 1)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,94,28,95,29
+34212,"(-3, 2, 2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+36171,"(-3, 2, 3, -2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Bassus,Tenor,61,216,63,218
+36275,"(-3, 3, -2, -3, 2)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Sup[erius],Altus,145,140,146,141
+36425,"(-3, 3, -2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Sup[erius],8,225,9,226
+40682,"(-3, 3, -2, 2, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,47,9,49,11
+40718,"(-3, 3, -2, 4, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,71,67,72,68
+40733,"(-3, 3, 2, 2, -5)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,83,90,85,92
+40748,"(-3, 3, 2, 2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Tenor,Bassus,19,24,21,25
+40864,"(-3, 4, -2, -3, 2)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Sup[erius],Altus,145,140,146,141
+40875,"(-3, 4, -2, -2, -2)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Sup[erius],72,112,74,113
+41442,"(-3, 4, -2, -2, 2)",1.0,Missa Ave Maria: Kyrie,Ave Maria,Sup[erius],Bassus,31,116,33,118
+41503,"(-3, 4, -2, 1, -2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,38,67,39,68
+41522,"(-3, 4, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+41642,"(-3, 4, 2, 2, 2)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Tenor,Bassus,157,174,158,175
+41677,"(-3, 5, -2, -2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Tenor,Sup[erius],93,263,94,265
+41827,"(-3, 5, -2, -2, 2)",1.0,Missa Ave Maria: Kyrie,Ave Maria,Sup[erius],Bassus,31,116,33,118
+41834,"(-3, 5, -2, 1, -2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,38,67,39,68
+41850,"(-3, 5, 2, 2, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Tenor,Altus,157,22,158,23
+41866,"(-3, 6, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,44,122,46,123
+41872,"(-3, 8, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,265,264,266,266
+41920,"(-2, -3, -2, -2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Altus,94,26,95,28
+43998,"(-2, -3, -2, -2, 3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Sup[erius],7,236,8,237
+44097,"(-2, -3, 2, -3, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Bassus,59,263,60,264
+44130,"(-2, -3, 2, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,45,52,46,53
+44361,"(-2, -3, 2, -3, 5)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Bassus,Bassus,51,57,52,58
+44373,"(-2, -3, 2, -2, -3)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Bassus,59,185,60,186
+44608,"(-2, -3, 2, -2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Altus,47,263,48,264
+46126,"(-2, -3, 2, -2, 3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,96,101,97,102
+46162,"(-2, -3, 2, 2, -5)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],82,89,84,91
+46256,"(-2, -3, 2, 2, -3)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Tenor,Altus,31,64,33,65
+46653,"(-2, -3, 2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,54,54,55,55
+47642,"(-2, -3, 2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,47,54
+51615,"(-2, -3, 2, 2, 3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Sup[erius],129,145,130,146
+51834,"(-2, -3, 3, -2, -3)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Tenor,Bassus,25,24,26,26
+52034,"(-2, -3, 3, -2, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Sup[erius],25,59,26,60
+52810,"(-2, -3, 3, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Sup[erius],129,145,130,146
+53052,"(-2, -3, 4, -2, -2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Sup[erius],25,39,27,40
+53203,"(-2, -3, 4, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,3,7,5
+53316,"(-2, -3, 5, -2, -2)",0.0,Ave Maria,Ave Maria,Bassus,Bassus,115,123,117,125
+53320,"(-2, -3, 5, -2, 1)",0.6666666666666667,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,67,178,68,179
+53327,"(-2, -3, 5, 2, 2)",0.6666666666666667,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Bassus,25,70,27,72
+53338,"(-2, -3, 6, -2, -2)",1.0,Missa Ave Maria: Agnus Dei,Ave Maria,Sup[erius],[Superius],9,19,11,21
+53345,"(-2, -3, 8, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,265,264,266,266
+53372,"(-2, -2, -3, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,45,52,46,53
+53569,"(-2, -2, -3, 2, 2)",0.9166666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Altus,Sup[erius],93,62,95,63
+57001,"(-2, -2, -3, 5, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Tenor,Altus,93,178,94,179
+57037,"(-2, -2, -3, 8, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,264,264,266,265
+57100,"(-2, -2, -2, -3, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Sup[erius],93,84,94,85
+59480,"(-2, -2, -2, -3, 8)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,264,263,266,265
+59507,"(-2, -2, -2, -2, -3)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,73,73,74,74
+62828,"(-2, -2, -2, -2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,73,73,74,74
+66402,"(-2, -2, -2, -2, 1)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Altus,94,26,95,28
+69174,"(-2, -2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,17,14,18,15
+73831,"(-2, -2, -2, -2, 3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,7,83,8,84
+77925,"(-2, -2, -2, -2, 4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,7,83,8,84
+78871,"(-2, -2, -2, -2, 5)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Altus,83,74,84,75
+79433,"(-2, -2, -2, -2, 6)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Bassus,7,136,9,138
+79585,"(-2, -2, -2, -2, 8)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,264,263,266,265
+79621,"(-2, -2, -2, 1, -3)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Bassus,48,18,50,19
+79895,"(-2, -2, -2, 1, -2)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,22,9,23
+85994,"(-2, -2, -2, 1, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Tenor,Bassus,25,85,26,86
+89671,"(-2, -2, -2, 1, 3)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,267,85,269,87
+89726,"(-2, -2, -2, 1, 4)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,267,85,269,87
+89760,"(-2, -2, -2, 2, -4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,45,52,46,53
+89919,"(-2, -2, -2, 2, -3)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,22,9,23
+96825,"(-2, -2, -2, 2, -2)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,22,9,23
+108142,"(-2, -2, -2, 2, 1)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Tenor,Bassus,25,85,26,86
+111366,"(-2, -2, -2, 2, 2)",0.9166666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Altus,Sup[erius],93,62,95,63
+115488,"(-2, -2, -2, 2, 3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Tenor,Bassus,25,85,26,86
+118987,"(-2, -2, -2, 3, -2)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,22,9,23
+128296,"(-2, -2, -2, 3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Tenor,Bassus,25,85,26,86
+132303,"(-2, -2, -2, 4, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Altus,84,84,85,85
+132427,"(-2, -2, -2, 4, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,8,84,9,85
+133482,"(-2, -2, -2, 4, 1)",0.5416666666666666,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Bassus,111,114,113,116
+133592,"(-2, -2, -2, 4, 2)",0.9166666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Bassus,5,70,7,71
+133873,"(-2, -2, -2, 4, 3)",0.5416666666666666,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Bassus,111,114,113,116
+133936,"(-2, -2, -2, 5, -3)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Tenor,Altus,93,178,94,179
+133979,"(-2, -2, -2, 5, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Sup[erius],93,27,94,28
+134214,"(-2, -2, -2, 5, 1)",0.9166666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Bassus,5,70,7,71
+134286,"(-2, -2, -2, 5, 2)",0.9166666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Bassus,5,70,7,71
+134530,"(-2, -2, -2, 6, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Tenor,Altus,93,178,94,179
+134565,"(-2, -2, -2, 8, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,264,264,266,265
+134620,"(-2, -2, 1, -2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Altus,47,263,48,264
+135435,"(-2, -2, 1, -2, 2)",0.08333333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Tenor,32,107,33,108
+136007,"(-2, -2, 1, 1, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Agnus Dei,Bassus,Altus,107,28,109,30
+136022,"(-2, -2, 1, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,54,54,55,55
+136652,"(-2, -2, 1, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,47,54
+139146,"(-2, -2, 1, 3, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,267,85,269,87
+139173,"(-2, -2, 1, 4, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,267,85,269,87
+139210,"(-2, -2, 2, -4, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,45,52,46,53
+139317,"(-2, -2, 2, -3, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Altus,47,263,48,264
+140345,"(-2, -2, 2, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,45,52,46,53
+140873,"(-2, -2, 2, -3, 4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,17,15,18,16
+140964,"(-2, -2, 2, -3, 5)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Bassus,Bassus,51,57,52,58
+141003,"(-2, -2, 2, -2, -3)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Altus,47,263,48,264
+142464,"(-2, -2, 2, -2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,47,8,48,9
+145792,"(-2, -2, 2, -2, 1)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],8,39,9,40
+145918,"(-2, -2, 2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],8,39,9,40
+147584,"(-2, -2, 2, -2, 3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,17,15,18,16
+147988,"(-2, -2, 2, -2, 4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,17,15,18,16
+148093,"(-2, -2, 2, 1, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,54,54,55,55
+148661,"(-2, -2, 2, 2, -5)",0.75,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Tenor,107,66,108,68
+148744,"(-2, -2, 2, 2, -4)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Altus,107,107,108,108
+148998,"(-2, -2, 2, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,54,54,55,55
+150593,"(-2, -2, 2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,54,54,55,55
+152545,"(-2, -2, 2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,47,54
+157514,"(-2, -2, 2, 3, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,107,113,108,114
+157666,"(-2, -2, 2, 3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,54,54,55,55
+158417,"(-2, -2, 3, -2, -3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Tenor,8,44,9,45
+159154,"(-2, -2, 3, -2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,47,8,48,9
+162472,"(-2, -2, 3, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,3,7,5
+162919,"(-2, -2, 3, 1, -2)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Altus,Bassus,98,108,101,111
+162939,"(-2, -2, 3, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,107,113,108,114
+163091,"(-2, -2, 3, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,54,54,55,55
+163832,"(-2, -2, 4, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,3,7,5
+164028,"(-2, -2, 4, -2, -2)",0.8333333333333334,Missa Ave Maria: Kyrie,Ave Maria,Altus,Altus,8,26,9,28
+164772,"(-2, -2, 4, -2, 1)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,3,7,5
+164892,"(-2, -2, 4, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,3,7,5
+165267,"(-2, -2, 4, 1, -2)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Altus,Bassus,98,108,101,111
+165276,"(-2, -2, 4, 2, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Sup[erius],5,92,7,93
+165327,"(-2, -2, 4, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,91,83,94,86
+165474,"(-2, -2, 5, -3, 2)",0.75,Missa Ave Maria: Kyrie,Ave Maria,Tenor,Altus,60,72,61,74
+165505,"(-2, -2, 5, -2, -2)",0.8333333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Tenor,Sup[erius],93,83,94,84
+165634,"(-2, -2, 5, -2, 1)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Altus,27,178,28,179
+165677,"(-2, -2, 5, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,3,7,5
+165954,"(-2, -2, 5, 1, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Sup[erius],5,92,7,93
+165968,"(-2, -2, 5, 2, -3)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Sup[erius],5,92,7,93
+165980,"(-2, -2, 5, 2, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Sup[erius],5,92,7,93
+166014,"(-2, -2, 5, 2, 1)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Bassus,8,137,9,139
+166025,"(-2, -2, 5, 2, 2)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Bassus,8,137,9,139
+166131,"(-2, -2, 8, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,265,264,266,266
+166169,"(-2, 1, -3, 2, -3)",1.0,Missa Ave Maria: Credo,Ave Maria,Altus,Tenor,203,51,205,52
+166183,"(-2, 1, -3, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Altus,61,225,62,227
+166277,"(-2, 1, -2, -2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,7,8,8
+168903,"(-2, 1, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,78,80,80,82
+169011,"(-2, 1, -2, 1, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],8,39,9,40
+169042,"(-2, 1, -2, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Altus,61,225,62,227
+169089,"(-2, 1, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Altus,61,225,62,227
+169193,"(-2, 1, -2, 2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Tenor,18,182,20,184
+169292,"(-2, 1, -2, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Bassus,134,78,137,80
+169371,"(-2, 1, 1, 2, -2)",0.0,Ave Maria,Ave Maria,[Superius],Tenor,57,62,59,64
+169373,"(-2, 1, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Tenor,92,92,93,93
+169933,"(-2, 1, 2, 2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,39,38,40,39
+170753,"(-2, 1, 2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+171665,"(-2, 1, 3, -2, -2)",0.0,Ave Maria,Ave Maria,[Superius],[Superius],113,121,115,123
+171672,"(-2, 1, 4, -2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,267,85,270,88
+171677,"(-2, 2, -5, 2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,238,230,239,231
+171690,"(-2, 2, -4, 2, -3)",1.0,Ave Maria,Ave Maria,Tenor,Bassus,51,42,52,43
+171705,"(-2, 2, -4, 2, 2)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Altus,Tenor,197,49,198,50
+171734,"(-2, 2, -3, -2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,7,8,8
+174504,"(-2, 2, -3, -2, 1)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],33,60,34,61
+174530,"(-2, 2, -3, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,78,80,80,82
+174783,"(-2, 2, -3, -2, 5)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Tenor,Bassus,32,15,34,17
+174807,"(-2, 2, -3, 1, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,191,192,192,194
+174898,"(-2, 2, -3, 2, -5)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,45,52,46,53
+174964,"(-2, 2, -3, 2, -3)",0.5833333333333333,Missa Ave Maria: Sanctus,Ave Maria,Bassus,Tenor,44,50,45,51
+175027,"(-2, 2, -3, 2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Bassus,Tenor,20,20,21,21
+175295,"(-2, 2, -3, 2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Bassus,91,114,93,115
+175575,"(-2, 2, -3, 4, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,18,15,19,16
+175630,"(-2, 2, -2, -3, 1)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],33,60,34,61
+175738,"(-2, 2, -2, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,78,80,80,82
+176296,"(-2, 2, -2, -3, 3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Sup[erius],20,154,21,155
+176437,"(-2, 2, -2, -2, -3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,7,8,8
+178923,"(-2, 2, -2, -2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,7,8,8
+191007,"(-2, 2, -2, -2, 1)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],33,60,34,61
+191217,"(-2, 2, -2, -2, 2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],33,60,34,61
+191823,"(-2, 2, -2, -2, 5)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Tenor,Bassus,32,15,34,17
+191835,"(-2, 2, -2, 1, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],8,39,9,40
+191852,"(-2, 2, -2, 1, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],8,39,9,40
+191969,"(-2, 2, -2, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Agnus Dei,Altus,Sup[erius],10,33,12,35
+192064,"(-2, 2, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],8,39,9,40
+192645,"(-2, 2, -2, 2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Bassus,91,114,93,115
+192882,"(-2, 2, -2, 3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,18,15,19,16
+193259,"(-2, 2, -2, 4, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,18,15,19,16
+193352,"(-2, 2, 1, 1, 1)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Tenor,86,73,88,75
+193356,"(-2, 2, 1, 2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,39,38,40,39
+194217,"(-2, 2, 2, -5, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],83,90,84,91
+194232,"(-2, 2, 2, -4, 4)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Altus,32,107,33,108
+194243,"(-2, 2, 2, -3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Tenor,92,92,93,93
+195351,"(-2, 2, 2, -3, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,42
+195623,"(-2, 2, 2, -3, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],118,126,119,127
+196229,"(-2, 2, 2, -3, 3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Tenor,Tenor,32,274,33,275
+196449,"(-2, 2, 2, -3, 4)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Altus,32,107,33,108
+196478,"(-2, 2, 2, -2, -3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,54,54,55,55
+197381,"(-2, 2, 2, -2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Tenor,54,54,55,55
+199660,"(-2, 2, 2, -2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,42
+199896,"(-2, 2, 2, -2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,42
+200450,"(-2, 2, 2, -2, 3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],118,126,119,127
+200529,"(-2, 2, 2, -2, 4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Tenor,Tenor,32,108,33,109
+200548,"(-2, 2, 2, 1, 1)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Tenor,86,73,88,75
+200559,"(-2, 2, 2, 2, -5)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,83,90,85,92
+200587,"(-2, 2, 2, 2, -4)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Agnus Dei,Sup[erius],Altus,113,87,114,87
+200595,"(-2, 2, 2, 2, -3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,39,38,40,39
+202080,"(-2, 2, 2, 2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,39,38,40,39
+203676,"(-2, 2, 2, 2, 1)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+204496,"(-2, 2, 2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+206343,"(-2, 2, 3, -3, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,156,157,157,158
+206480,"(-2, 2, 3, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Tenor,92,92,93,93
+207074,"(-2, 2, 3, -2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,42
+207095,"(-2, 2, 3, -2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],118,126,119,127
+207163,"(-2, 2, 5, -2, -2)",0.4166666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Altus,58,142,60,144
+207212,"(-2, 3, -2, -3, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Altus,8,171,9,172
+207833,"(-2, 3, -2, -3, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Sup[erius],20,154,21,155
+208094,"(-2, 3, -2, -3, 3)",1.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Sup[erius],Sup[erius],31,144,33,145
+208128,"(-2, 3, -2, -2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,7,7,8,8
+215872,"(-2, 3, -2, -2, 1)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],33,60,34,61
+215903,"(-2, 3, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,78,80,80,82
+216179,"(-2, 3, -2, 1, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Tenor,8,207,9,208
+216242,"(-2, 3, -2, 2, -3)",0.5,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Bassus,Sup[erius],269,23,271,24
+216288,"(-2, 3, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+216596,"(-2, 3, 2, -3, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,156,157,157,158
+216716,"(-2, 3, 2, -2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,42
+216741,"(-2, 3, 2, 2, -3)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Agnus Dei,Sup[erius],Altus,113,87,114,87
+216746,"(-2, 3, 2, 2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,39,38,40,39
+217781,"(-2, 4, -3, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+217918,"(-2, 4, -2, -2, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Altus,8,171,9,172
+219617,"(-2, 4, -2, -2, 1)",0.0,Missa Ave Maria: Credo,Ave Maria,Sup[erius],Altus,270,12,271,13
+219667,"(-2, 4, -2, -2, 2)",0.0,Missa Ave Maria: Credo,Ave Maria,Sup[erius],Altus,270,12,271,13
+219682,"(-2, 4, -2, -2, 3)",0.0,Missa Ave Maria: Credo,Ave Maria,Sup[erius],Altus,270,12,271,13
+219694,"(-2, 4, -2, 1, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+219830,"(-2, 4, -2, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+219983,"(-2, 4, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+220327,"(-2, 4, 2, 2, -2)",0.6666666666666666,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Tenor,Tenor,43,50,46,52
+220330,"(-2, 4, 2, 2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Tenor,89,157,91,158
+220390,"(-2, 4, 2, 2, 3)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Altus,Sup[erius],89,7,91,9
+220413,"(-2, 5, -3, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Bassus,57,46,59,47
+220437,"(-2, 5, -2, -2, -2)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,72,26,74,27
+220651,"(-2, 5, -2, 1, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Agnus Dei,Sup[erius],Altus,27,31,29,33
+220702,"(-2, 5, -2, 2, -3)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Bassus,Tenor,46,33,47,35
+220755,"(-2, 5, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+220947,"(-2, 5, 2, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Bassus,25,70,27,72
+220999,"(-2, 8, -3, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,265,264,266,266
+221044,"(-2, 8, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,265,264,266,266
+221099,"(1, -5, 2, 2, -2)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Bassus,Bassus,143,146,145,148
+221120,"(1, -4, 1, 4, -2)",0.16666666666666666,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,13,265,14,267
+221148,"(1, -4, 2, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,121,215,122,216
+221156,"(1, -4, 4, -2, -2)",0.5,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,263,258,265,260
+221162,"(1, -3, -2, 2, 2)",0.9166666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,54,77,55,79
+221352,"(1, -3, -2, 4, -2)",0.5833333333333333,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,71,25,73,27
+221364,"(1, -3, 1, 2, -3)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,191,193,193,194
+221410,"(1, -3, 1, 4, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Sup[erius],265,81,267,83
+221434,"(1, -3, 1, 4, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,263,81,265,83
+221448,"(1, -3, 2, -3, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Tenor,156,155,157,156
+221482,"(1, -3, 2, -3, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,192,193,193,195
+221507,"(1, -3, 2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Tenor,Bassus,19,23,20,25
+221972,"(1, -3, 4, -2, -2)",0.6666666666666666,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,111,32,113
+222050,"(1, -2, -3, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],154,156,155,157
+222180,"(1, -2, -3, 2, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Agnus Dei,Altus,Altus,129,11,130,13
+222553,"(1, -2, -2, -2, -2)",0.25,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,7,77,8,78
+227986,"(1, -2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],7,38,8,39
+233907,"(1, -2, -2, -2, 4)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Tenor,27,32,28,33
+233960,"(1, -2, -2, 2, -3)",0.0,Ave Maria,Ave Maria,[Superius],Tenor,133,136,136,139
+234010,"(1, -2, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,78,80,80,82
+234261,"(1, -2, -2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,46,53
+235088,"(1, -2, -2, 3, -2)",0.75,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Sup[erius],Altus,164,130,166,133
+235102,"(1, -2, -2, 4, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,3,7,5
+235300,"(1, -2, 1, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Altus,8,89,10,91
+235841,"(1, -2, 2, -3, 2)",0.6666666666666667,Missa Ave Maria: Sanctus,Missa Ave Maria: Agnus Dei,Bassus,Sup[erius],114,33,115,34
+235867,"(1, -2, 2, -2, -3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Altus,61,226,63,227
+235941,"(1, -2, 2, -2, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,61,38,63,39
+236473,"(1, -2, 2, -2, 2)",0.6666666666666667,Missa Ave Maria: Sanctus,Missa Ave Maria: Agnus Dei,Bassus,Sup[erius],114,33,115,34
+236487,"(1, -2, 2, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Tenor,19,183,20,184
+236495,"(1, -2, 2, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Bassus,135,79,137,80
+236544,"(1, -2, 2, 2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Tenor,92,92,93,93
+236886,"(1, -2, 2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Bassus,Bassus,23,57,25,58
+237017,"(1, -2, 3, -2, -2)",0.0,Missa Ave Maria: Kyrie,Ave Maria,Altus,Altus,80,86,81,87
+237201,"(1, -2, 4, -2, -2)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Tenor,263,138,265,140
+237249,"(1, 1, -5, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Bassus,Bassus,143,146,144,147
+237255,"(1, 1, -5, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Bassus,Bassus,121,143,123,144
+237268,"(1, 1, -4, 1, 2)",0.6666666666666667,Missa Ave Maria: Gloria,Ave Maria,Bassus,Bassus,121,94,123,96
+237276,"(1, 1, -4, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Bassus,Bassus,121,143,123,144
+237288,"(1, 1, -3, -2, -2)",0.8333333333333334,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Bassus,36,45,37,46
+237355,"(1, 1, -3, 2, -3)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,192,193,193,195
+237381,"(1, 1, -3, 2, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Altus,121,215,123,216
+237393,"(1, 1, -2, -3, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Tenor,Sup[erius],133,223,136,225
+237414,"(1, 1, -2, -2, -2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],36,117,37,119
+238276,"(1, 1, -2, -2, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Tenor,Sup[erius],133,223,136,225
+238331,"(1, 1, -2, 2, 2)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Bassus,201,206,203,207
+238364,"(1, 1, 1, -3, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,88,91,89,92
+238399,"(1, 1, 1, -2, -3)",0.8333333333333334,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Altus,35,36,36,37
+238478,"(1, 1, 1, -2, -2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],35,116,36,118
+238957,"(1, 1, 1, 1, -3)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,243,252,245,254
+238965,"(1, 1, 1, 1, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Altus,48,48,50,50
+239114,"(1, 1, 1, 1, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],243,252,245,254
+239182,"(1, 1, 1, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],143,146,145,148
+239437,"(1, 1, 1, 2, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Altus,48,48,50,50
+239508,"(1, 1, 1, 2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Tenor,146,261,148,263
+239680,"(1, 1, 1, 2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],243,252,245,254
+239715,"(1, 1, 2, -3, 2)",0.9166666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Tenor,Altus,17,214,20,216
+239799,"(1, 1, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,4,1,6,4
+240789,"(1, 1, 2, -2, 2)",0.9166666666666667,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],22,31,24,33
+240940,"(1, 1, 2, -2, 3)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Tenor,Altus,25,83,27,84
+240953,"(1, 1, 2, 1, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],143,146,145,148
+241146,"(1, 1, 2, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],143,146,145,148
+241377,"(1, 1, 2, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Tenor,Bassus,40,38,41,40
+241424,"(1, 1, 2, 2, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Altus,48,48,50,50
+241578,"(1, 1, 2, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],143,146,145,148
+241768,"(1, 1, 4, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,88,96,89,97
+241823,"(1, 1, 5, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,235,248,236,249
+241829,"(1, 1, 5, 1, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,88,96,89,97
+241874,"(1, 1, 5, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,88,96,89,97
+241965,"(1, 1, 5, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,88,96,89,97
+242024,"(1, 2, -3, 1, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,88,91,90,93
+242195,"(1, 2, -3, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,88,91,90,93
+242569,"(1, 2, -3, 2, -2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],22,88,24,90
+243162,"(1, 2, -3, 2, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,27,16,29,17
+243577,"(1, 2, -2, -3, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Sup[erius],54,64,56,65
+244157,"(1, 2, -2, -2, -2)",0.5833333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Bassus,92,83,94,84
+252839,"(1, 2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,48
+254093,"(1, 2, -2, 1, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,43
+254442,"(1, 2, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,38,42,39,43
+255145,"(1, 2, -2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Sup[erius],91,32,93,33
+255496,"(1, 2, -2, 3, 2)",0.75,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Tenor,Tenor,25,139,27,140
+255519,"(1, 2, -2, 4, -2)",0.6666666666666667,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Altus,Tenor,38,56,39,57
+255538,"(1, 2, 1, -4, 1)",0.5,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,12,262,14,264
+255553,"(1, 2, 1, -3, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Sup[erius],262,80,264,82
+255577,"(1, 2, 1, 1, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Tenor,146,261,148,263
+255744,"(1, 2, 1, 2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Tenor,146,261,148,263
+255860,"(1, 2, 2, -3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,4,1,6,4
+256060,"(1, 2, 2, -3, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,262,80,264,82
+256070,"(1, 2, 2, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,69,65,71,67
+257016,"(1, 2, 2, -3, 3)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],29,69,32,71
+257052,"(1, 2, 2, -3, 4)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],29,69,32,71
+257157,"(1, 2, 2, -2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,4,1,6,4
+257514,"(1, 2, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,4,1,6,4
+265258,"(1, 2, 2, -2, 1)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,31,40,33,42
+265390,"(1, 2, 2, -2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],39,56,41,58
+266070,"(1, 2, 2, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],143,146,145,148
+266266,"(1, 2, 2, 2, -3)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,28,16,30,17
+266585,"(1, 2, 2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+269000,"(1, 2, 2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],77,77,78,78
+271156,"(1, 3, -2, -2, -2)",0.6666666666666667,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Sup[erius],37,244,39,245
+272107,"(1, 4, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,235,248,236,249
+272211,"(1, 4, 1, -3, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,264,82,266,84
+272221,"(1, 4, 1, 2, -3)",0.8333333333333334,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Tenor,201,205,202,206
+272227,"(1, 4, 1, 2, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,88,96,90,98
+272347,"(1, 4, 1, 2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Tenor,Bassus,13,13,15,15
+272362,"(1, 4, 1, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Tenor,Bassus,13,13,15,15
+272368,"(1, 4, 1, 3, -2)",0.8333333333333334,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Tenor,201,205,202,206
+272374,"(1, 4, 2, 2, -2)",0.5,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],201,229,202,231
+272391,"(1, 5, -3, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,235,248,236,249
+272423,"(1, 5, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,235,248,236,249
+272478,"(1, 5, 1, 2, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,88,96,90,98
+272545,"(2, -5, 1, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Tenor,63,181,67,182
+272565,"(2, -5, 2, 2, -3)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],83,90,85,92
+272586,"(2, -5, 2, 2, -2)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Bassus,Bassus,143,146,145,148
+272617,"(2, -5, 2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Tenor,63,181,67,182
+272672,"(2, -5, 3, 2, 2)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,238,181,239,182
+272688,"(2, -5, 4, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Bassus,80,180,82,182
+272702,"(2, -5, 5, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Bassus,80,180,82,182
+272717,"(2, -5, 5, 2, 3)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Bassus,Altus,180,127,182,128
+272743,"(2, -4, 2, -3, 2)",0.5833333333333334,Missa Ave Maria: Credo,Ave Maria,Altus,[Superius],110,64,113,67
+272822,"(2, -4, 2, 2, 2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Bassus,19,122,20,123
+273357,"(2, -4, 4, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Altus,32,9,34,11
+273382,"(2, -3, -2, -3, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Bassus,57,28,60,29
+273387,"(2, -3, -2, -2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,16,14,18,15
+273424,"(2, -3, -2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,16,14,18,15
+277983,"(2, -3, -2, -2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Altus,49,49,51,51
+278354,"(2, -3, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],7,38,8,39
+286009,"(2, -3, -2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,46,53
+286639,"(2, -3, -2, 4, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,3,7,5
+286834,"(2, -3, -2, 5, -2)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Tenor,Bassus,33,16,34,17
+286844,"(2, -3, 1, -2, -2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],88,106,90,107
+287475,"(2, -3, 1, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Altus,8,89,10,91
+288104,"(2, -3, 1, 2, -3)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,191,193,193,194
+288206,"(2, -3, 1, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Bassus,28,115,29,116
+288471,"(2, -3, 1, 4, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,265,83,267,85
+288485,"(2, -3, 2, -3, -2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],88,106,90,107
+289571,"(2, -3, 2, -3, 1)",0.5833333333333334,Missa Ave Maria: Credo,Ave Maria,Altus,[Superius],110,64,113,67
+289821,"(2, -3, 2, -3, 2)",0.5833333333333334,Missa Ave Maria: Credo,Ave Maria,Altus,[Superius],110,64,113,67
+290186,"(2, -3, 2, -3, 3)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Tenor,158,156,159,157
+290306,"(2, -3, 2, -3, 4)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Tenor,158,156,159,157
+290314,"(2, -3, 2, -2, -3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Sup[erius],20,154,21,155
+291168,"(2, -3, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Sup[erius],6,8,8,10
+293803,"(2, -3, 2, -2, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,192,193,193,195
+293851,"(2, -3, 2, -2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Tenor,47,176,49,178
+294052,"(2, -3, 2, 2, -3)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Bassus,Tenor,61,216,62,217
+294389,"(2, -3, 2, 2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Tenor,92,92,93,93
+294986,"(2, -3, 2, 2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Bassus,28,115,29,116
+295317,"(2, -3, 2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Tenor,Bassus,19,23,20,25
+296144,"(2, -3, 2, 3, -2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Bassus,Tenor,61,216,62,217
+296229,"(2, -3, 3, -2, -2)",0.6666666666666666,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,106,32,107
+297997,"(2, -3, 3, -2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Tenor,47,32,49,34
+298042,"(2, -3, 3, -2, 4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,70,66,72,68
+298100,"(2, -3, 3, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Bassus,28,115,29,116
+298465,"(2, -3, 4, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Altus,32,9,34,11
+298478,"(2, -3, 4, -2, -3)",0.6666666666666666,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,111,32,113
+298514,"(2, -3, 4, -2, -2)",0.6666666666666666,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,111,32,113
+298746,"(2, -3, 4, -2, 1)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Altus,32,9,34,11
+298756,"(2, -3, 4, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,18,15,19,17
+298966,"(2, -3, 4, -2, 3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Altus,32,9,34,11
+298977,"(2, -3, 4, 2, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Tenor,Altus,157,21,158,23
+298985,"(2, -3, 5, -2, -2)",0.6666666666666666,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,111,32,113
+299058,"(2, -2, -3, 2, -3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Bassus,Bassus,20,63,22,65
+299661,"(2, -2, -3, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,78,80,80,82
+300884,"(2, -2, -3, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,46,53
+302232,"(2, -2, -3, 3, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Bassus,Bassus,20,63,22,65
+302593,"(2, -2, -3, 3, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Agnus Dei,Altus,Altus,129,11,130,13
+302714,"(2, -2, -3, 4, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,3,7,5
+302910,"(2, -2, -3, 5, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,66,224,68,226
+302928,"(2, -2, -3, 6, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,66,224,68,226
+303020,"(2, -2, -2, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],7,38,8,39
+309155,"(2, -2, -2, -2, -3)",0.25,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,7,77,8,78
+313153,"(2, -2, -2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,16,14,18,15
+322293,"(2, -2, -2, -2, 1)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],7,38,8,39
+330725,"(2, -2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Bassus,7,25,8,26
+340316,"(2, -2, -2, -2, 3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Bassus,7,25,8,26
+348438,"(2, -2, -2, -2, 4)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Sup[erius],47,202,48,203
+348695,"(2, -2, -2, -2, 5)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Altus,5,129,6,130
+348778,"(2, -2, -2, -2, 6)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Altus,5,129,6,130
+348791,"(2, -2, -2, 1, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],33,60,34,62
+349320,"(2, -2, -2, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,78,80,80,82
+349784,"(2, -2, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],33,60,34,62
+351268,"(2, -2, -2, 2, 1)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,46,53
+351619,"(2, -2, -2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,46,53
+353510,"(2, -2, -2, 4, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,3,7,5
+353663,"(2, -2, -2, 5, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,3,7,5
+353895,"(2, -2, 1, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Altus,8,89,10,91
+354599,"(2, -2, 1, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Altus,8,89,10,91
+355265,"(2, -2, 2, -3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Sup[erius],6,8,8,10
+355857,"(2, -2, 2, -3, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,192,193,193,195
+355970,"(2, -2, 2, -3, 2)",0.5833333333333334,Missa Ave Maria: Credo,Ave Maria,Altus,[Superius],110,64,113,67
+356258,"(2, -2, 2, -3, 3)",0.0,Ave Maria,Ave Maria,Tenor,Bassus,49,49,51,51
+356263,"(2, -2, 2, -2, -4)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Sup[erius],20,154,21,155
+356315,"(2, -2, 2, -2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Sup[erius],6,8,8,10
+357103,"(2, -2, 2, -2, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,61,38,63,39
+360956,"(2, -2, 2, 1, 2)",0.75,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Tenor,Tenor,137,25,140,26
+360996,"(2, -2, 2, 2, -3)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Tenor,92,92,93,93
+361321,"(2, -2, 2, 2, -2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Tenor,92,92,93,93
+362075,"(2, -2, 2, 2, 1)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Altus,Tenor,221,25,223,26
+362152,"(2, -2, 2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Tenor,Bassus,19,57,20,58
+362871,"(2, -2, 3, -2, -3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Sup[erius],20,154,21,155
+363181,"(2, -2, 3, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Sup[erius],6,8,8,10
+364688,"(2, -2, 3, 2, 2)",0.75,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Tenor,Tenor,26,139,28,140
+364754,"(2, -2, 4, -2, -2)",0.9166666666666666,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Bassus,30,18,32,20
+365107,"(2, -2, 4, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,18,15,19,17
+365321,"(2, -2, 4, 2, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Tenor,Altus,157,21,158,23
+365342,"(2, 1, -4, 1, 4)",0.5,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Sup[erius],262,80,265,83
+365352,"(2, 1, -4, 4, -2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Altus,147,107,150,108
+365363,"(2, 1, -3, 1, 4)",0.5,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Sup[erius],262,80,265,83
+365378,"(2, 1, -3, 4, -2)",0.8333333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,11,32,12
+365482,"(2, 1, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,48
+366610,"(2, 1, -2, -2, 4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,2,7,4
+366702,"(2, 1, 1, 1, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Tenor,Tenor,243,252,245,254
+366739,"(2, 1, 1, 1, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],243,252,245,254
+366760,"(2, 1, 2, -3, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,88,91,89,92
+367288,"(2, 1, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,47
+373970,"(2, 1, 2, -2, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Tenor,60,182,61,183
+374036,"(2, 1, 2, -2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],39,56,41,58
+374610,"(2, 1, 2, 1, -4)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Tenor,146,261,149,264
+374665,"(2, 1, 2, 1, -3)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Tenor,146,261,149,264
+374734,"(2, 1, 2, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],143,146,145,148
+374863,"(2, 2, -5, 1, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],83,90,84,91
+374904,"(2, 2, -5, 2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,84,150,86,152
+374933,"(2, 2, -5, 2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],83,90,84,91
+374979,"(2, 2, -5, 4, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Bassus,80,180,81,181
+375004,"(2, 2, -5, 5, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Bassus,80,180,81,181
+375019,"(2, 2, -4, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,156,157,157,159
+375112,"(2, 2, -4, 2, -2)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Bassus,159,160,160,161
+375393,"(2, 2, -4, 2, 2)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Sup[erius],27,83,29,84
+375798,"(2, 2, -4, 3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,70,66,72,68
+375877,"(2, 2, -4, 4, -2)",0.8333333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,11,32,12
+376036,"(2, 2, -3, -3, 5)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,66,224,67,225
+376039,"(2, 2, -3, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,16,13,18,15
+381395,"(2, 2, -3, -2, 1)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,79,75,80,76
+381486,"(2, 2, -3, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,48
+382662,"(2, 2, -3, -2, 4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,2,7,4
+382755,"(2, 2, -3, 1, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,43
+383359,"(2, 2, -3, 1, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,27,16,29,17
+383591,"(2, 2, -3, 1, 4)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,262,80,265,83
+383605,"(2, 2, -3, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,156,157,157,159
+384509,"(2, 2, -3, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,70,66,72,68
+386761,"(2, 2, -3, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Sup[erius],91,32,93,33
+387622,"(2, 2, -3, 3, -2)",0.6666666666666666,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],30,70,32,72
+388507,"(2, 2, -3, 3, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,27,16,29,17
+388760,"(2, 2, -3, 4, -3)",0.8333333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,11,32,12
+388864,"(2, 2, -3, 4, -2)",0.6666666666666666,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],30,70,32,72
+389365,"(2, 2, -3, 4, 2)",0.5,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Altus,Altus,21,76,22,78
+389367,"(2, 2, -3, 5, -2)",0.8333333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,11,32,12
+389471,"(2, 2, -2, -3, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,48
+392183,"(2, 2, -2, -3, 3)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Sup[erius],Sup[erius],54,64,56,65
+392607,"(2, 2, -2, -3, 4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,2,7,4
+392838,"(2, 2, -2, -3, 5)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,66,224,67,225
+392860,"(2, 2, -2, -3, 6)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,66,224,67,225
+392863,"(2, 2, -2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,16,13,18,15
+402316,"(2, 2, -2, -2, 1)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,48
+403856,"(2, 2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,48
+407597,"(2, 2, -2, -2, 4)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,2,7,4
+407750,"(2, 2, -2, -2, 5)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,5,2,7,4
+407886,"(2, 2, -2, 1, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,43
+408186,"(2, 2, -2, 1, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,38,42,39,43
+409314,"(2, 2, -2, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,38,42,39,43
+410056,"(2, 2, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,38,42,39,43
+412242,"(2, 2, -2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Sup[erius],91,32,93,33
+413104,"(2, 2, -2, 3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,70,66,72,68
+413807,"(2, 2, -2, 4, -2)",0.8333333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Sup[erius],30,11,32,12
+414084,"(2, 2, 1, -2, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Tenor,60,182,61,183
+414158,"(2, 2, 1, 1, -2)",0.6666666666666667,Ave Maria,Ave Maria,[Superius],Altus,32,32,34,34
+414200,"(2, 2, 1, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+416828,"(2, 2, 2, -5, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Bassus,80,175,81,176
+416834,"(2, 2, 2, -5, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Bassus,80,175,81,176
+416864,"(2, 2, 2, -5, 2)",1.0,Missa Ave Maria: Gloria,Ave Maria,Bassus,Bassus,159,131,161,132
+416931,"(2, 2, 2, -5, 4)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,28,80,29,81
+416959,"(2, 2, 2, -5, 5)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,28,80,29,81
+417026,"(2, 2, 2, -4, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Altus,159,16,161,17
+417698,"(2, 2, 2, -4, 3)",1.0,Missa Ave Maria: Gloria,Ave Maria,Bassus,Bassus,159,131,161,132
+417710,"(2, 2, 2, -3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,15,12,17,15
+422794,"(2, 2, 2, -3, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],39,56,41,58
+424525,"(2, 2, 2, -3, 3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,69,65,71,67
+425335,"(2, 2, 2, -3, 4)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Tenor,Bassus,56,54,57,55
+425350,"(2, 2, 2, -2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,47
+431241,"(2, 2, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,4,1,6,4
+439649,"(2, 2, 2, -2, 1)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],39,56,41,58
+440450,"(2, 2, 2, -2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],39,56,41,58
+442769,"(2, 2, 2, -2, 3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],39,56,41,58
+443273,"(2, 2, 2, -2, 4)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Tenor,Bassus,56,54,57,55
+443288,"(2, 2, 2, 1, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+445448,"(2, 2, 2, 1, 2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,77,79,78,79
+447659,"(2, 2, 2, 2, -5)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,28,80,29,81
+447890,"(2, 2, 2, 2, -4)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,28,28,29,30
+448556,"(2, 2, 2, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+452126,"(2, 2, 2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+456221,"(2, 2, 2, 2, 1)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,77,79,78,79
+458051,"(2, 2, 2, 2, 2)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],77,77,78,78
+460214,"(2, 2, 3, -2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],39,56,41,58
+460574,"(2, 3, -3, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,156,157,157,159
+460712,"(2, 3, -2, -2, -2)",0.5833333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Bassus,92,83,94,84
+465105,"(2, 3, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,48
+466158,"(2, 3, -2, 1, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,33,41,34,43
+466312,"(2, 3, -2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,38,42,39,43
+466542,"(2, 3, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,46,46,47
+470741,"(2, 5, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,235,248,236,249
+470756,"(3, -3, 2, -3, 1)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,190,192,192,193
+470802,"(3, -2, -3, -2, -2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Sup[erius],Tenor,97,102,98,103
+471096,"(3, -2, -3, 2, -2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Bassus,Bassus,20,63,22,65
+471459,"(3, -2, -3, 2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Altus,Sup[erius],129,145,130,146
+471660,"(3, -2, -3, 3, -2)",0.0,Missa Ave Maria: Sanctus,Missa Ave Maria: Sanctus,Sup[erius],Altus,96,106,98,108
+471708,"(3, -2, -2, -3, 2)",0.9166666666666667,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,217,70,218,72
+471753,"(3, -2, -2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Altus,7,73,8,74
+480271,"(3, -2, -2, -2, 1)",0.5,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Bassus,48,17,49,19
+480564,"(3, -2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],7,38,8,39
+489372,"(3, -2, -2, -2, 3)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Altus,47,72,48,74
+489638,"(3, -2, -2, -2, 4)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Sup[erius],Tenor,27,32,28,33
+489700,"(3, -2, -2, 2, -2)",0.5833333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],31,47,33,48
+489976,"(3, -2, -2, 2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],45,52,46,53
+490720,"(3, -2, 1, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Sup[erius],Altus,8,89,10,91
+491313,"(3, -2, 2, -3, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Sup[erius],48,23,49,24
+491401,"(3, -2, 2, -3, 2)",0.0,Ave Maria,Ave Maria,Tenor,Bassus,49,49,51,51
+491407,"(3, -2, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+492186,"(3, -2, 2, -2, 2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,91,10,93,11
+492212,"(3, -2, 4, -2, -2)",0.0,Missa Ave Maria: Agnus Dei,Missa Ave Maria: Agnus Dei,Sup[erius],Altus,82,44,83,45
+492224,"(3, -2, 4, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,18,15,19,17
+492363,"(3, 1, 2, -2, 2)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,201,221,202,222
+492373,"(3, 2, -3, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,16,13,18,15
+492549,"(3, 2, -3, 2, -2)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,159,198,160,198
+492732,"(3, 2, -2, -2, -2)",0.5833333333333334,Missa Ave Maria: Kyrie,Missa Ave Maria: Sanctus,Altus,Bassus,92,83,94,84
+496580,"(3, 2, 2, -5, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Altus,84,150,85,152
+496638,"(3, 2, 2, -3, 2)",1.0,Missa Ave Maria: Gloria,Missa Ave Maria: Sanctus,Tenor,Altus,27,128,28,129
+497023,"(3, 2, 2, -2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Tenor,Bassus,140,231,141,232
+497142,"(3, 2, 2, -2, 1)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Tenor,60,182,61,183
+497218,"(3, 2, 2, -2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Agnus Dei,Sup[erius],Sup[erius],39,56,41,58
+497794,"(3, 2, 2, 1, 2)",0.0,Ave Maria,Ave Maria,Altus,Bassus,31,35,33,37
+497795,"(3, 2, 2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],46,53,47,54
+500352,"(3, 2, 2, 2, 2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,77,79,78,79
+502496,"(4, -3, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+502590,"(4, -3, 2, 2, -3)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Tenor,159,268,160,270
+502803,"(4, -2, -3, 2, -2)",0.0,Missa Ave Maria: Agnus Dei,Missa Ave Maria: Agnus Dei,Tenor,Tenor,34,36,36,38
+502823,"(4, -2, -2, -2, -2)",0.25,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Tenor,73,197,74,199
+504142,"(4, -2, -2, -2, 1)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Sup[erius],19,112,20,113
+504234,"(4, -2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,59,19,60,20
+504559,"(4, -2, -2, -2, 3)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Bassus,Sup[erius],19,112,20,113
+504684,"(4, -2, -2, 1, -2)",0.9166666666666667,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Tenor,85,33,86,34
+504701,"(4, -2, -2, 2, -2)",0.9166666666666667,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Tenor,85,33,86,34
+504717,"(4, -2, -2, 2, 2)",1.0,Missa Ave Maria: Gloria,Ave Maria,Tenor,Bassus,158,116,160,118
+504764,"(4, -2, -2, 3, 2)",1.0,Missa Ave Maria: Credo,Ave Maria,Sup[erius],Altus,270,12,272,14
+504776,"(4, -2, 1, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+504835,"(4, -2, 1, -2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Tenor,38,207,40,209
+504864,"(4, -2, 1, -2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,38,67,40,69
+504907,"(4, -2, 2, -3, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+505043,"(4, -2, 2, -2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+505079,"(4, -2, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+505388,"(4, -2, 2, -2, 1)",1.0,Missa Ave Maria: Agnus Dei,Missa Ave Maria: Agnus Dei,Sup[erius],Tenor,31,22,33,24
+505389,"(4, -2, 2, -2, 2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Altus,Altus,91,10,93,11
+505457,"(4, -2, 2, 2, -3)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Tenor,159,268,160,270
+505688,"(4, -2, 2, 2, -2)",0.5,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Tenor,159,268,160,270
+505872,"(4, 1, -3, 1, 4)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Sanctus,Tenor,Tenor,264,82,267,85
+505878,"(4, 1, -2, -2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,7,4,9,6
+505888,"(4, 1, 1, 1, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Tenor,Bassus,13,14,15,16
+505898,"(4, 1, 2, -3, 2)",0.8333333333333334,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Tenor,201,205,202,206
+505913,"(4, 1, 2, -2, 2)",0.9166666666666667,Missa Ave Maria: Kyrie,Ave Maria,Tenor,[Superius],91,71,93,73
+505938,"(4, 1, 2, 2, -3)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,3,1,6,4
+506316,"(4, 1, 2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,3,1,6,4
+506882,"(4, 2, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Tenor,Bassus,54,51,57,53
+506908,"(4, 2, 2, -3, 2)",0.9166666666666667,Missa Ave Maria: Kyrie,Ave Maria,Tenor,[Superius],91,71,93,73
+506934,"(4, 2, 2, -2, 1)",0.9166666666666667,Missa Ave Maria: Kyrie,Ave Maria,Tenor,[Superius],91,71,93,73
+506943,"(4, 2, 2, -2, 2)",1.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Tenor,Tenor,91,126,93,128
+506999,"(4, 2, 2, -2, 3)",0.9166666666666667,Missa Ave Maria: Kyrie,Ave Maria,Tenor,[Superius],91,71,93,73
+507006,"(4, 2, 2, 1, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],245,254,247,256
+507034,"(4, 2, 2, 2, -3)",0.25,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Sup[erius],14,28,17,31
+507334,"(4, 2, 2, 2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,3,1,6,4
+507636,"(4, 2, 2, 2, 2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Bassus,28,175,29,176
+507672,"(4, 2, 2, 3, -2)",0.6666666666666667,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Altus,90,35,92,37
+507722,"(5, -3, 2, -3, -2)",0.75,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Bassus,46,229,48,231
+507773,"(5, -2, -2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Gloria,Tenor,Altus,94,26,95,27
+508179,"(5, -2, -2, -2, 2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Altus,Bassus,59,19,60,20
+508336,"(5, -2, -2, 2, 2)",1.0,Missa Ave Maria: Gloria,Ave Maria,Tenor,Bassus,158,116,160,118
+508373,"(5, -2, 1, -2, -2)",0.0,Missa Ave Maria: Agnus Dei,Missa Ave Maria: Agnus Dei,Altus,Bassus,32,23,33,24
+508375,"(5, -2, 1, -2, 2)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Altus,Altus,38,67,40,69
+508439,"(5, -2, 2, -3, -2)",0.75,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Bassus,46,229,48,231
+508515,"(5, -2, 2, -2, -2)",0.0,Missa Ave Maria: Kyrie,Missa Ave Maria: Kyrie,Sup[erius],Altus,6,4,8,5
+508657,"(5, 1, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Tenor,Bassus,54,51,57,53
+508672,"(5, 1, -2, -2, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,7,4,9,6
+508687,"(5, 1, 1, -2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,88,96,90,98
+508719,"(5, 1, 2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Bassus,209,211,210,212
+508729,"(5, 1, 2, -2, 1)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Gloria,Altus,Altus,88,96,90,98
+508750,"(5, 2, -2, -3, 2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Sup[erius],50,53,52,55
+508767,"(5, 2, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Tenor,Bassus,54,51,57,53
+508815,"(5, 2, 2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Bassus,209,211,210,212
+508845,"(5, 2, 2, -2, 2)",0.9166666666666667,Missa Ave Maria: Kyrie,Ave Maria,Tenor,[Superius],91,71,93,73
+508854,"(5, 2, 2, 2, -3)",0.0,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Bassus,26,71,27,72
+508864,"(5, 2, 2, 2, -2)",0.9166666666666667,Missa Ave Maria: Gloria,Missa Ave Maria: Credo,Bassus,Tenor,26,246,27,248
+508915,"(5, 2, 2, 2, 2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Altus,Bassus,28,175,29,176
+508953,"(6, -2, -2, -2, -2)",0.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Altus,Tenor,45,122,46,123
+509016,"(6, -2, -2, -2, 2)",0.75,Missa Ave Maria: Kyrie,Missa Ave Maria: Credo,Bassus,Sup[erius],14,235,15,236
+509029,"(8, -2, -2, -2, -2)",1.0,Missa Ave Maria: Credo,Missa Ave Maria: Credo,Sup[erius],Altus,265,264,267,266
