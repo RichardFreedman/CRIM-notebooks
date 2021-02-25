@@ -1,0 +1,5 @@
+,pattern_generating_match,pattern_matched,piece_title,part,start_measure,start_beat,start_offset,sub_group_id,predicted_type,offset_diffs,entry_number
+17,"[-2, 2, -2, -2, -2]","[-2, 2, -2, -2, -2]",Missa Ave Maria: Kyrie,Altus,4,3.0,28.0,24.0,ID,"[20.0, 48.0, 20.0]",1
+12,"[-2, 2, -2, -2, -2]","[-2, 2, -2, -2, -2]",Missa Ave Maria: Kyrie,Sup[erius],7,1.0,48.0,24.0,ID,"[20.0, 48.0, 20.0]",2
+25,"[-2, 2, -2, -2, -2]","[-2, 2, -2, -2, -2]",Missa Ave Maria: Kyrie,Bassus,13,1.0,96.0,24.0,ID,"[20.0, 48.0, 20.0]",3
+26,"[-2, 2, -2, -2, -2]","[-2, 2, -2, -2, -2]",Missa Ave Maria: Kyrie,Bassus,15,3.0,116.0,24.0,ID,"[20.0, 48.0, 20.0]",4
